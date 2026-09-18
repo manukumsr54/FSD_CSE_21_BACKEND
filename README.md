@@ -1,6 +1,6 @@
 ## Backend Learning Notes
 
-This repository contains backend learning materials, lecture notes, and code examples covered during class.-
+This repository contains backend learning materials, lecture notes, and code examples covered during class.
 
 ## Contents
 
